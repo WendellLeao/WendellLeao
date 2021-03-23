@@ -7,6 +7,8 @@ Alguns jogos que eu fiz podem ser encontrados aqui: https://wendell-leao.itch.io
 
 Meu LinkedIn: https://www.linkedin.com/in/wendell-leao/?locale=pt_BR
 
+------------------------------------------------------------------------------------
+
 (EN) Passionate about development and games, today I do what I love most, 
 I am a future technologist in Digital Games. I'm specializing in the 
 programming area, I have experience with the Unity game engine and I'm 
