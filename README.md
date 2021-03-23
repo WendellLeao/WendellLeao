@@ -16,4 +16,4 @@ I'm more familiar with the C # programming language.
 
 Some games I made can be found here: https://wendell-leao.itch.io/ 
 
-My LinkedIn: https://www.linkedin.com/in/wendell-leao/?locale=en_US 
+My LinkedIn: https://www.linkedin.com/in/wendell-leao/?locale=en_US
