@@ -1,4 +1,4 @@
-(PT-BR) paixonado por desenvolvimento e games hoje faço o que mais amo, 
+(PT-BR) Apaixonado por desenvolvimento e games hoje faço o que mais amo, 
 sou um futuro tecnólogo em Jogos Digitais. Estou me especializando na 
 área de programação, possuo experiência com a game engine Unity e tenho 
 mais familiaridade com a linguagem de programação C#.
