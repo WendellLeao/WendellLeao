@@ -5,11 +5,10 @@ Apaixonado por desenvolvimento e apaixonado por games, hoje eu
 faço o que mais amo, sou um futuro tecnólogo em Jogos Digitais. Estou me 
 especializando na área de programação.
 
-### Skills
+### My skills
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+### Contacts
 
-Jogos que fiz (podem ser jogados no navegador): https://wendell-leao.itch.io/
-
-Meu LinkedIn: https://www.linkedin.com/in/wendell-leao/?locale=pt_BR
+<a href="https://www.linkedin.com/in/wendell-leao/" target="_blank">
+<img align="center" alt="wendell-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%">
+</a>
