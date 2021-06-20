@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" style="max-width:100%;" alt="wave-gif" height="40" width="40"></img>
+## Hi there <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" style="max-width:100%;" alt="wave-gif" height="40" width="40" align="center"></img>
 ### About me
 
 - Olá, meu nome é Wendell Leão e eu sou um programador de jogos 🎮
