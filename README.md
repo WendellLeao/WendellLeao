@@ -20,6 +20,4 @@ Apaixonado por desenvolvimento e apaixonado por games, hoje eu faço o que mais 
 </a>
 <a href="https://wendell-leao.itch.io/" target="_blank">
 <img align="center" alt="wendell-itchio" height="40" width="40" src="https://www.pinclipart.com/picdir/big/398-3984001_itch-io-logo-clipart.png" style="max-width:100%;">
-</a>        
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendellLeao&show_icons=true&theme=dracula)](https://github.com/WendellLeao/github-readme-stats)
+</a>
