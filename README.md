@@ -18,5 +18,13 @@ especializando na área de programação.
 </a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendellLeao)](https://github.com/WendellLeao/github-readme-stats)
+
+
+
+
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendellLeao&show_icons=true&theme=dracula)](https://github.com/WendellLeao/github-readme-stats)
 
