@@ -3,8 +3,11 @@
 
 Apaixonado por desenvolvimento e apaixonado por games, hoje eu 
 faço o que mais amo, sou um futuro tecnólogo em Jogos Digitais. Estou me 
-especializando na área de programação, possuo experiência com a game engine 
-Unity e tenho mais familiaridade com a linguagem de programação C#.
+especializando na área de programação.
+
+### Skills
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 Jogos que fiz (podem ser jogados no navegador): https://wendell-leao.itch.io/
 
