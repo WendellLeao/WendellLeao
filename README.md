@@ -7,22 +7,20 @@ especializando na área de programação.
 
 ### My skills
 
-<a>
-<img align="center" alt="csharp-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;">
-</a>
+<img src="https://cdn.icon-icons.com/icons2/615/PNG/128/Unity_icon-icons.com_56592.png" style="max-width:100%;" alt="csharp-icon" height="40" width="40"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;" alt="csharp-icon" height="40" width="50"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width:100%;" alt="csharp-icon" height="40" width="50"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width:100%;" alt="csharp-icon" height="40" width="50"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;" alt="csharp-icon" height="40" width="50"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%;" alt="csharp-icon" height="40" width="50"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%;" alt="csharp-icon" height="40" width="50"></img>
+
 
 ### Contacts
 
 <a href="https://www.linkedin.com/in/wendell-leao/" target="_blank">
 <img align="center" alt="wendell-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
-
-
-
-
-
-
-
 
 
 
