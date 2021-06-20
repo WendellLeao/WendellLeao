@@ -1,3 +1,5 @@
+:computer:
+
 (PT-BR) Apaixonado por desenvolvimento e apaixonado por games, hoje eu 
 faço o que mais amo, sou um futuro tecnólogo em Jogos Digitais. Estou me 
 especializando na área de programação, possuo experiência com a game engine 
