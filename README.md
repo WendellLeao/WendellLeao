@@ -17,4 +17,4 @@ especializando na área de programação.
 <img align="center" alt="wendell-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WendellLeao&repo=github-readme-stats)](https://github.com/WendellLeao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WendellLeao)](https://github.com/WendellLeao/github-readme-stats)
