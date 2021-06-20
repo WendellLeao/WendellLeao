@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" style="max-width:100%;" alt="wave-gif" height="40" width="40"></img>
 ### About me
 
-Apaixonado por desenvolvimento e apaixonado por games, hoje eu faço o que mais amo, sou um futuro tecnólogo em Jogos Digitais. Estou me especializando na área de programação.
+Olá, meu nome é Wendell Leão e eu sou um programador de jogos. Estou mais familiarizado com a engine Unity e com a linguagem de programação C#.
 
 ### My skills
 
