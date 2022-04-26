@@ -3,7 +3,7 @@
 
 - Hello, my name is Wendell Leão and I am a game programmer 🎮
 - I have more than three years of experience with the Unity game engine 👾
-- If you want, you can find the games I made by clicking [here](https://wendell-leao.itch.io/ "My Itch.io Page") 😉
+- I have some games published. You can find the games I made by clicking [here](https://wendell-leao.itch.io/ "My Itch.io Page") 😉
 
 ### My skills
 
