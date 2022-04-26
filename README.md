@@ -15,7 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width:100%;" alt="javascript-icon" height="40" width="50"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width:100%;" alt="html-icon" height="40" width="50"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width:100%;" alt="css-icon" height="40" width="50"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%;" alt="python-icon" height="43" width="50"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%;" alt="python-icon" height="44" width="50"></img>
 
 ### Contacts
 
