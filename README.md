@@ -20,8 +20,8 @@
 ### Contacts
 
 <a href="https://www.linkedin.com/in/wendell-leao/" target="_blank">
-<img align="center" alt="wendell-linkedin" height="38" width="38" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="max-width:100%;">
+<img align="center" alt="wendell-linkedin" height="36" width="35" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/wendell.leao.7/" target="_blank">
-<img align="center" alt="wendell-facebook" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" style="max-width:100%;">
+<img align="center" alt="wendell-facebook" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" style="max-width:100%;">
 </a>
