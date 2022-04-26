@@ -7,7 +7,7 @@
 
 ### My skills
 
-<img src="https://www.svgrepo.com/show/331626/unity.svg" style="max-width:100%;" alt="unity-icon" height="43" width="50"></img>
+<img src="https://www.svgrepo.com/show/331626/unity.svg" style="max-width:100%;" alt="unity-icon" height="42" width="50"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" style="max-width:100%;" alt="csharp-icon" height="40" width="50"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width:100%;" alt="git-icon" height="40" width="50"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;" alt="java-icon" height="43" width="50"></img>
