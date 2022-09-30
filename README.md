@@ -1,7 +1,7 @@
 ## What's up <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" style="max-width:100%;" alt="wave-gif" height="40" width="40" align="center"></img>
 ### About me:
 
-- Hello, my name is Wendell Leão and I am a game programmer 🎮
+- Hello, my name is Wendell Leão and I am a game developer 🎮
 - I have more than three years of experience with the Unity game engine 👾
 - I have some games published. You can find the games I made by clicking [here](https://wendell-leao.itch.io/ "My Itch.io Page") 😉
 
