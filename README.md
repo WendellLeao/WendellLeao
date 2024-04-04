@@ -3,7 +3,7 @@
 
 - Hello, my name is Wendell and I'm a game programmer 🎮
 - I've been a professional game programmer for three years 👾
-- Check out my [website portifolio](https://wendell-leao.com/ "My portifolio website") to find the games I've made 😉
+- Check out my [portfolio website](https://wendell-leao.com/ "My portfolio website") to find the games I've made 😉
 
 ### Skills:
 
