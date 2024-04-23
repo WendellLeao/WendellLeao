@@ -1,9 +1,9 @@
 ## What's up <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" style="max-width:100%;" alt="wave-gif" height="40" width="40" align="center"></img>
 ### About me:
 
-- Hello, my name is Wendell and I'm a game programmer 🎮
-- I've been a professional game programmer for three years 👾
-- Check out my [portfolio website](https://wendell-leao.com/ "My portfolio website") to find the games I've made 😉
+- Hello, my name is Wendell Leão and I am a professional game programmer 🎮
+- With 5 years of experience developing games, I possess in-depth knowledge of Unity3D and C#. 👾
+- Check out my [portfolio website](https://wendell-leao.com/ "My portfolio website") to find the games I've made and get in touch with me if you want 😉
 
 ### Skills:
 
