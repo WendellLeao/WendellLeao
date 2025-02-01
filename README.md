@@ -12,11 +12,3 @@
 &thinsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;" alt="csharp-icon" height="40" width="50"></img>
 &thinsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="max-width:100%;" alt="react-icon" height="40" width="50"></img>
-&thinsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="max-width:100%;" alt="typescript-icon" height="40" width="50"></img>
-&thinsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%;" alt="html-icon" height="40" width="50"></img>
-&thinsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%;" alt="css-icon" height="40" width="50"></img>
-&thinsp;
