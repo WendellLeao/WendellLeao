@@ -1,13 +1,10 @@
 ## What's up <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" style="max-width:100%;" alt="wave-gif" height="40" width="40" align="center"></img>
-### About me:
 
-- I've been a professional game programmer for nearly 4 years 🎮
-- On my [resume](https://wendellleao.github.io/resume/) you can learn more about my work experience 😉
-- Check out my [portfolio](https://wendell-leao.com/ "My portfolio website") to find the games I've made 😁
+I am Wendell, a game developer who loves creating fun and engaging experiences with Unity and C#.
 
-### Skills:
+I enjoy collaborating with teams, brainstorming creative ideas, and learning from others to bring the best possible experience to players. Working together and sharing knowledge is what makes game development exciting and rewarding for me!
 
-<img src="https://github.com/WendellLeao/WendellLeao/assets/54878277/bea9cc6a-8b4d-4199-9a18-f40ee43a71b7" style="max-width:100%;" alt="unity-icon" height="42" width="50"></img>
-&thinsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;" alt="csharp-icon" height="40" width="50"></img>
-&thinsp;
+**Talking about me:**
+- 🧑‍💻 I'm currently working at [Blue Gravity Studios](https://gravity.games/);
+- 🎮 Check out my [portfolio](https://wendell-leao.com/ "My portfolio website") to find the games I've made;
+- 📄 Take a look at my [resume](https://wendellleao.github.io/resume/) to learn more about me.
