@@ -1,10 +1,9 @@
 ## What's up <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" style="max-width:100%;" alt="wave-gif" height="40" width="40" align="center"></img>
 ### About me:
 
-- My name is Wendell and I am a professional game programmer 🎮
-- With 3+ years of professional experience, I possess in-depth knowledge of Unity and C# 👨🏻‍💻
-- Feel free to take a look at my [resume](https://wendellleao.github.io/resume/) to learn more about my achievements and experience 😉
-- Check out my [portfolio](https://wendell-leao.com/ "My portfolio website") to find the games I have made and get in touch with me if you want 😁
+- I've been a professional game programmer for nearly 4 years 🎮
+- On my [resume](https://wendellleao.github.io/resume/) you can learn more about my work experience 😉
+- Check out my [portfolio](https://wendell-leao.com/ "My portfolio website") to find the games I've made 😁
 
 ### Skills:
 
