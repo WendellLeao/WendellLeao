@@ -1,10 +1,19 @@
-## What's up <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" style="max-width:100%;" alt="wave-gif" height="40" width="40" align="center"></img>
+## Wendell Leao
 
-I am Wendell, a game developer who loves creating fun and engaging experiences with Unity and C#.
+Unity/C# developer focused on building scalable gameplay systems, high-performance architectures, and production-ready UI for PC and mobile games.
 
-I enjoy collaborating with teams, brainstorming creative ideas, and learning from others to bring the best possible experience to players. Working together and sharing knowledge is what makes game development exciting and rewarding for me!
+Currently working at Blue Gravity Studios, contributing to multiplayer titles with complex systems, real production constraints, and live environments.
 
-**Talking about me:**
-- 🧑‍💻 I'm currently working at [Blue Gravity Studios](https://gravity.games/);
-- 🎮 Check out my [portfolio](https://wendell-leao.com/ "My portfolio website") to find the games I've made;
-- 📄 Take a look at my [resume](https://wendellleao.github.io/resume/) to learn more about me.
+I specialize in:
+- Gameplay systems and core architecture
+- Multiplayer development (Photon Fusion, Mirror)
+- Performance optimization and scalability
+- UI development (Unity UI Toolkit)
+- Clean, maintainable, and production-ready code
+
+Driven by solving complex technical problems, making critical decisions, and delivering reliable systems that perform under real-world conditions.
+
+---
+
+🎮 Portfolio: https://wendell-leao.com/  
+📄 Resume: https://wendellleao.github.io/resume/
