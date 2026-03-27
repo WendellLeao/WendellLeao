@@ -6,9 +6,9 @@ Currently working at Blue Gravity Studios, contributing to multiplayer titles wi
 
 I specialize in:
 - Gameplay systems and core architecture
-- Multiplayer development (Photon Fusion, Mirror)
+- Multiplayer development (Netcode for GameObjects, Mirror, Photon Fusion)
 - Performance optimization and scalability
-- UI development (Unity UI Toolkit)
+- UI development (UI Toolkit, uGUI, IMGUI)
 - Clean, maintainable, and production-ready code
 
 Driven by solving complex technical problems, making critical decisions, and delivering reliable systems that perform under real-world conditions.
