@@ -15,5 +15,5 @@ Driven by solving complex technical problems, making critical decisions, and del
 
 ---
 
-🎮 Portfolio: https://wendell-leao.com/
+🎮 Portfolio: https://wendell-leao.com/   
 📄 Resume: https://wendell-leao.com/resume/
