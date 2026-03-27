@@ -4,7 +4,7 @@ Unity/C# developer focused on building scalable gameplay systems, high-performan
 
 Currently working at Blue Gravity Studios, contributing to multiplayer titles with complex systems, real production constraints, and live environments.
 
-I specialize in:
+My specializations:
 - Gameplay systems and core architecture
 - Multiplayer development (Netcode for GameObjects, Mirror, Photon Fusion)
 - Performance optimization and scalability
