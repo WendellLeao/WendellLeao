@@ -1,17 +1,15 @@
 ## Wendell Leao
 
-Unity/C# developer focused on building scalable gameplay systems, high-performance architectures, and production-ready UI for PC and mobile games.
+Senior Unity Developer with 5 years of experience building AA games for PC and mobile. I specialize in gameplay systems, UI architecture, and performance optimization, with a track record of doubling frame rates, halving startup times, and driving architectural decisions across cross-functional teams.
 
-Currently working at Blue Gravity Studios, contributing to multiplayer titles with complex systems, real production constraints, and live environments.
+Currently working at BGNS Studios on PIX Football Manager.
 
 My specializations:
-- Gameplay systems and core architecture
-- Multiplayer development (Netcode for GameObjects, Mirror, Photon Fusion)
-- Performance optimization and scalability
+- Gameplay systems and engine architecture
+- Multiplayer development (Mirror, Photon Fusion, Netcode for GameObjects)
+- Performance optimization and profiling
 - UI development (UI Toolkit, uGUI, IMGUI)
-- Clean, maintainable, and production-ready code
-
-Driven by solving complex technical problems, making critical decisions, and delivering reliable systems that perform under real-world conditions.
+- Clean, production-ready code built to scale
 
 ---
 
