@@ -1,12 +1,12 @@
 ## Wendell Leao
 
-Senior Unity Developer with 5 years of experience building AA games for PC and mobile. I specialize in gameplay systems, UI architecture, and performance optimization, with a track record of doubling frame rates, halving startup times, and driving architectural decisions across cross-functional teams.
+Unity Senior Developer with 5+ years of experience building gameplay systems, multiplayer features, rendering solutions, and scalable gameplay architecture for AA PC and mobile titles. Specialized in development-focused engineering across performance optimization, technical problem-solving, and legacy system stabilization
 
-Currently working at BGNS Studios on PIX Football Manager.
+Currently at BGNS Studios (Serbia), I work on The Platform, a user generated content game in the style of Roblox and Rec Room, where I joined as a senior reinforcement to resolve critical stability issues across PC, Mobile, and VR ahead of a Gamescom showcase deadline.
 
 My specializations:
 - Gameplay systems and engine architecture
-- Multiplayer development (Mirror, Photon Fusion, Netcode for GameObjects)
+- Multiplayer development (FishNet, Mirror, Photon Fusion, Netcode for GameObjects)
 - Performance optimization and profiling
 - UI development (UI Toolkit, uGUI, IMGUI)
 - Clean, production-ready code built to scale
