@@ -1,4 +1,4 @@
-## Wendell Leao
+## Wendell Leão
 
 Unity Senior Developer with 5+ years of experience building gameplay systems, multiplayer features, rendering solutions, and scalable gameplay architecture for AA PC and mobile titles. Specialized in development-focused engineering across performance optimization, technical problem-solving, and legacy system stabilization
 
